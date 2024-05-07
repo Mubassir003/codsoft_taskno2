@@ -1,0 +1,119 @@
+
+*{
+    margin:0;
+    padding:0;
+    
+
+}
+body{
+    background: #080808;
+    color:#fff;
+
+}
+.hsection{
+    width:100%;
+    height:100vh;
+    /* background-image: url('image.jpg'); */
+    background-size: ;
+    background-position: center;
+}.container{
+    padding:10px 10%;
+}
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+nav ul li{
+    display:inline-block;
+    list-style:none;
+    margin:10px 20px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.text{
+    margin-top: 20%;
+    font-size: 30%;
+}
+.text h1{
+    font-size: 60px;
+    margin-top: 20px;
+}
+.text h1 span{
+    color:rgb(134, 9, 24);
+}
+image{
+    size:20px ;
+}
+#about{
+    padding:60px;
+
+}
+.abt{
+   color:rgb(73, 239, 73) ;
+}
+.tab-titles{
+    padding:60px;
+}
+.skl{
+    padding: 60px;
+    color: rgb(159, 17, 17);
+}
+.skl p{
+    color:white;
+}
+.contact{
+    padding:60px;
+  
+}
+h2{
+    color:rgb(218, 134, 32);
+}
+.contact i{
+    color:blue;
+}
+ul{
+    padding:60px;
+    display:flex;
+    justify-content: space-between;
+    text-decoration: none;
+    
+}
+ul i{
+    color:blue;
+   
+}
+h4{
+    padding:60px;
+}
+.project{
+    background-color: rgb(0, 255, 30);
+    color: black;
+}
+image{
+    padding:60px;
+    height:30px;
+    align-items:right;
+}
+.game{
+    align-items: end;
+    padding:130px;
+
+}
+.upload{
+    padding: 60px;
+    text-align: center;
+    font-size:large;
+    color: aqua;
+}
+.logo{
+    color: rgb(121, 13, 13);
+    font-size:x-large;
+}
+.photo{
+    padding:25px;
+}
